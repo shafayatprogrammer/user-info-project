@@ -1,0 +1,29 @@
+.shop-container {
+    display: flex;
+}
+
+.product-container {
+    width: 70%;
+    margin-left: 20px;
+    margin-right: 10px;
+    
+}
+
+.shop-container {
+    margin: auto;
+    width: 70%;
+}
+
+.cart-container {
+    border-radius: 10px;
+    transform: translateY(18%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 250px;
+    right: 10%;
+    position: fixed;
+    text-align: center;
+    width: 15%;
+    background: rgba(0, 0, 0, 0.123);
+}
